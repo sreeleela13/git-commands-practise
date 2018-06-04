@@ -2,6 +2,6 @@
 welcome 
 to
 the
-world
-About python
+world.
+About python.
 python is a interpreter language. 
